@@ -44,4 +44,4 @@ not_secret = (
 
 print(not_secret.capitalize())
 
-# зачет!
+
