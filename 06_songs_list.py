@@ -47,4 +47,3 @@ violator_songs_dict = {
 time_sum = round(violator_songs_list[1][1] + violator_songs_list[6][1] + violator_songs_list[7][1], 3)
 print('А другие три песни звучат:', time_sum, 'минут')
 
-# зачет!
