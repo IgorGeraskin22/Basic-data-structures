@@ -27,4 +27,4 @@ height_families = (
 
 print('Общий рост моей семьи -', height_families, 'см')
 
-# зачет!
+
