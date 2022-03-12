@@ -62,4 +62,4 @@ print(compare)  # Результат: False
 #
 #
 
-# зачет!
+
